@@ -4,10 +4,10 @@ const Public = () => {
     const content = (
         <section className="public">
             <header>
-                <h1>Welcome to <span className="nowrap">TechTicket</span></h1>
+                <h1>Welcome to <span className="nowrap">TechNotes</span></h1>
             </header>
             <main className="public__main">
-                <p>Log your issues here to create a ticket that will be actioned.</p>
+                <p>Create a technical note to log your issue here, which will create a ticket to be actioned.</p>
                 <address className="public__addr">
                     <br />
                     <br />
