@@ -1,4 +1,4 @@
-name: Deploy Pipeline  # Give your pipeline a descriptive name
+name: Front-End Build and Deploy Pipeline   # Give your pipeline a descriptive name
 
 on:  # Define events that trigger the pipeline (e.g., push to a branch, pull request)
   push:
